@@ -1,0 +1,170 @@
+body
+{
+    color: #212529;
+}
+
+
+
+.vague1
+{
+    min-height: 455px;
+    background-image: url(../img/bg-masthead.jpg);
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    background-size: cover; /*elargie l'image*/
+    background-position: center; /*centrer la position de la photo pour avoir le milieur de l'image*/
+    font-family: "Lato";
+    padding-top: 170px;
+}
+#formulaire 
+{
+
+    justify-content: center;
+   
+
+}
+
+.options
+{
+    min-height: 455px;
+    background-color: #f8f9fa;
+}
+
+h1
+{
+    margin-bottom: 35px;
+}
+
+h2
+{
+   
+    text-align: center;
+    font-family: "Lato";
+    font-size: 2rem;
+    padding-top: 60px;
+    font-weight: bold;
+}
+h3
+{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.options
+{
+    text-align: center;
+    font-family: "Lato";
+    font-size: 1.25rem;
+    
+   
+}
+.icones
+{
+    color: #0069d9;
+    font-size: 5rem;
+}
+.conception
+{
+    min-height: 455px;
+    font-family: "Lato";
+    
+}
+.telephone
+{   
+    background: url(../img/bg-showcase-1.jpg) ;
+    background-size: cover;
+    min-height: 455px;  
+
+}
+.concept
+{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.concept h2
+{
+    text-align: left;
+}
+.temoignage
+{
+    min-height: 455px;
+    background-color: #f8f9fa;
+    font-family: "Lato";
+}
+.temoignage h2
+{
+    margin-bottom: 30px;
+}
+.rounded-circle
+{
+   
+   width: 180px;
+   text-align: center;
+}
+figcaption
+{
+    font-family: "Lato";
+    text-align: center;
+    font-size: 0.9rem;
+}
+h4
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.vague2
+{
+    min-height: 330px;
+    background-image: url(../img/bg-masthead.jpg);
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    background-size: cover; /*Elargie l'image*/
+    background-position: center; /*centrer la position de la photo pour avoir le milieur de l'image*/
+    font-family: "Lato";
+    padding-top: 110px;
+}
+footer
+{
+text-align: center;
+height: 120px;
+font-size: 1rem; 
+font-family: "Lato";
+background-color: #f8f9fa;
+
+
+}
+footer a
+{
+    
+    font-family: "Lato";
+    padding-top: 70px;
+    font-size: 0.9rem;
+}
+footer i
+{
+    color: #0069d9;
+    text-align: right;
+    font-size: 1.50rem;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+}
+footer nav
+{
+    margin-top: 40px;
+}
+#copiright
+{
+    
+    text-align: left;
+    font-size: 0.7rem;
+    
+}
+
+.point
+{
+    margin-right: 20px;
+    margin-left: 20px;
+}
